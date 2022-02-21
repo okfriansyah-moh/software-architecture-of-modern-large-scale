@@ -1,5 +1,5 @@
-# software-architecture-of-modern-large-scale
-
+# software-architecture-of-modern-large-scale-systems
+This is just my notes from this [course](https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/) by : [Michael Pogrebinsky](https://www.linkedin.com/in/michaelpog/)
 ### **PART 1 : The Definitions**
 
 The software architecture impacts :
