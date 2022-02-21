@@ -1,5 +1,8 @@
 # software-architecture-of-modern-large-scale-systems
 This is just my notes from this [course](https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/) by : [Michael Pogrebinsky](https://www.linkedin.com/in/michaelpog/)
+
+<br>
+
 ### **PART 1 : The Definitions**
 
 The software architecture impacts :
@@ -25,3 +28,9 @@ Its different component, and how those components communicate with each other me
 to fulfill the systems requirement and constraints means that :
 - Components come together to do what the system must do, which are our requirements
 - The system does not do what it shouldn’t do, which are the constraints
+
+<br>
+<br>
+<br>
+
+### **PART 2 : The Definitions**
