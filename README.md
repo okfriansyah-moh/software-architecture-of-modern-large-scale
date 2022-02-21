@@ -85,4 +85,33 @@ What we can do to guarantee success is following this METHOD :
 <br>
 <br>
 
-### **PART 4 : Systems Design And Architectural Direct Drivers**
+### **PART 4 FIRST METHOD : Systems Design And Architectural Direct Drivers**
+
+System design has high level ambiguity
+- Two reasons :
+  - The person providing the requirement is often not an engineer and may even be not very technical
+  - Getting requirements is part of the solution :
+    - The client does not always know what they need
+    - The client generally knows only what problem they need to solved
+
+
+Let's take a look of this Example of a hitchhiking service :
+
+High level requirement : “Allow people to join drivers on a route, who are willing to take passengers for a fee”
+
+Clarifying question :
+- Real time vs advance reservation
+- User experience - Mobile? Desktop? Both?
+- Payment through us or direct payment?
+
+Importance of Gathering Requirements :
+- What happens if we do not get the requirements right?
+- We can simply build something and then fix it
+- Seemingly there is no cost of materials in software, so changes should cheap?
+- Large scale systems are big projects that cannot be easily changed
+- Many engineers are involved
+- Many months of engineering work
+- Hardware and software costs
+- Contracts include financial obligations
+- Reputation and brand
+  Getting the requirement upfront is very critical
