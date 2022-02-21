@@ -33,4 +33,33 @@ to fulfill the systems requirement and constraints means that :
 <br>
 <br>
 
-### **PART 2 : The Definitions**
+### **PART 2 : The Advantages**
+
+
+Software architecture can have many levels of abstraction :
+- Classes / structs
+- Modules / packages / libraries
+- Services (processes / group of processes)
+
+The more distributed our systems and using multiple service approach, The more our product can get the benefit of such Software Architecture like :
+- Handling large amount of requests 
+- Processing and storing very large amounts of data 
+- Serving many users every day
+
+Examples of such systems include :
+- Ride-sharing
+- Video on demand
+- Social media
+- Online video games
+- Investment services
+- Banks
+
+If we get the architecture **RIGHT** , We can Go from a small startup to a **Multibillion-Dollar Company**
+
+Importance of Designing and Architecture : 
+- Minimize the Risks of failure system
+- Not doing a good job at the design phase can :
+    - Waste months of engineering time
+    - Build a system that does not meet our requirements
+- Restructuring a system that was not architected correctly is very hard and expensive
+- So the stakes here are high
