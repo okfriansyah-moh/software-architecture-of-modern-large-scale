@@ -63,3 +63,26 @@ Importance of Designing and Architecture :
     - Build a system that does not meet our requirements
 - Restructuring a system that was not architected correctly is very hard and expensive
 - So the stakes here are high
+
+<br>
+<br>
+<br>
+
+### **PART 3 : HOW to ACCOMPLISH such FEAT ?**
+SDLC can be categorized like this :
+Design -> Implementation -> Testing -> Deployment
+![](../../../../../../var/folders/tt/75b9033d17n1v3x3pjxf9v200000gn/T/com.apple.Notes/HardLinkURLTemp/1C6C5D90-B42F-41F3-BBCA-9B8FE40424DA/1641913123/Software Development Cycle.png)
+
+Challenges of Software Architecture :
+We cannot prove Software architecture to be either : Correct or Optimal
+
+What we can do to guarantee success is following this METHOD :
+- Methodical design process
+- Architectural patterns
+- Best practices
+
+<br>
+<br>
+<br>
+
+### **PART 4 : Systems Design And Architectural Direct Drivers**
