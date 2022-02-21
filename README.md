@@ -53,6 +53,7 @@ Examples of such systems include :
 - Online video games
 - Investment services
 - Banks
+- Payment Gateway and other Fintech Services
 
 If we get the architecture **RIGHT** , We can Go from a small startup to a **Multibillion-Dollar Company**
 
