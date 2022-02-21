@@ -71,7 +71,7 @@ Importance of Designing and Architecture :
 ### **PART 3 : HOW to ACCOMPLISH such FEAT ?**
 SDLC can be categorized like this :
 Design -> Implementation -> Testing -> Deployment
-![](../../../../../../var/folders/tt/75b9033d17n1v3x3pjxf9v200000gn/T/com.apple.Notes/HardLinkURLTemp/1C6C5D90-B42F-41F3-BBCA-9B8FE40424DA/1641913123/Software Development Cycle.png)
+<img width="786" alt="Software Development Cycle" src="https://user-images.githubusercontent.com/42309563/154976070-896c9e7e-bdd6-4020-b663-dde493112c82.png">
 
 Challenges of Software Architecture :
 We cannot prove Software architecture to be either : Correct or Optimal
